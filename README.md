@@ -58,6 +58,7 @@
 
 <br clear="both">
 
+<h3>Contributions:</h3>
 <img src="https://raw.githubusercontent.com/jibon2016/jibon2016/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
