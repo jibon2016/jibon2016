@@ -1,10 +1,12 @@
 <h2 align="left">Hi 👋!Welcome to My Profile.</h2>
 
-<h1 align="center"> I'am Jibon Sutradhar</h1>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=550&height=200&lines=I'am+Jibon+Sutradhar;Welcome+to+my+profile" alt="Typing SVG" /></a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibon2016&label=Profile%20views&color=0e75b6&style=flat" alt="fardinOA" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibon2016&label=Profile%20views&color=0e75b6&style=flat" alt="Jibon Sutradhar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibon2016&theme=" alt="fardinOA" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibon2016&theme=" alt="Jibon Sutradhar" /></a> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jibon2016&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
