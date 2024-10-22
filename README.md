@@ -46,4 +46,9 @@
 
 <img src="https://raw.githubusercontent.com/jibon2016/jibon2016/output/snake.svg" alt="Snake animation" />
 
+<br clear="both">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jibon2016&theme=react"/>
+
 ###
