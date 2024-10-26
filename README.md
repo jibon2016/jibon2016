@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!Welcome to My Profile.</h2>
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&background=FFFFFF00&color=000000&center=true&vCenter=true&multiline=true&width=550&height=200&lines=I'am+Jibon+Sutradhar;Welcome+to+my+profile" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&background=FFFFFF&color=000000&center=true&vCenter=true&multiline=true&width=550&height=200&lines=I'am+Jibon+Sutradhar;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibon2016&label=Profile%20views&color=0e75b6&style=flat" alt="Jibon Sutradhar" /> </p>
